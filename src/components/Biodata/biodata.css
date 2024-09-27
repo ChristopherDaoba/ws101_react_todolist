@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.main{
+    /* justify-content: center; */
+    width: 800px;
+    border: 2px solid  ;
+    border-radius: 10px;
+    margin: 200px auto ;
+    text-align: left;
+    background-color: bisque;
+    
+}
+
+.title{
+    text-align: center;
+    font-size: 28px;
+    background-color: rgb(16, 157, 238);
+}
+
+p{
+    font-weight: 600;
+    font-size: 20px;
+    margin-top:10px ;
+    margin-left: 20px;
+    background-color: bisque;
+}
